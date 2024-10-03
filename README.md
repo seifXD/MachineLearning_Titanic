@@ -1,4 +1,4 @@
-# Titanic: Machine Learning from Disaster
+# Titanic: Machine Learning 
 ## Project Overview
 This project is a part of the Titanic: Machine Learning from Disaster competition on Kaggle. The goal of this competition is to build a predictive model that answers the question: “Did a passenger survive the Titanic sinking?” based on features such as age, gender, class, and more.
 
