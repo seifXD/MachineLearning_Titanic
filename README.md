@@ -7,18 +7,18 @@ I approached this challenge as a way to further my data science skills, focusing
 ## Approach
 The key steps in my workflow were:
 
-### Data Preprocessing:
+- **Data Preprocessing:**
 
-Handling missing values
-Feature encoding using pd.get_dummies
-Feature scaling and transformation
-Exploratory data analysis to uncover patterns related to survival.
-### Modeling:
+  - Handling missing values
+  -  Feature encoding using pd.get_dummies
+  -  eature scaling and transformation
+  - Exploratory data analysis to uncover patterns related to survival.
+- **Modeling:**
 
-I used a Random Forest Classifier from the sklearn.ensemble package, fine-tuning hyperparameters such as n_estimators and max_depth to optimize the model's performance.
-### Evaluation:
+   I used a Random Forest Classifier from the sklearn.ensemble package, fine-tuning hyperparameters such as n_estimators and max_depth to optimize the model's performance.
+- **Evaluation:**
 
-The model was evaluated using accuracy, precision, and other metrics. A confusion matrix and learning curves were also employed to visualize the model’s performance.
+   The model was evaluated using accuracy, precision, and other metrics. A confusion matrix and learning curves were also employed to visualize the model’s performance.
 
 ## Challenges & Solutions
 Dealing with Missing Data: Many passengers had missing values for Age. I employed techniques such as filling missing values with the median or mean.
